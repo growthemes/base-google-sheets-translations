@@ -1,0 +1,11 @@
+<div class="partial-hero">
+  <h1>{{_(partial.title)}}</h1>
+  <div class="push">
+    {{_(partial.subtitle)}}
+  </div>
+  {% if partial.cta %}
+    <div>
+      <a href="{{partial.cta.url.path}}" class="button">{{_(partial.cta.title)}}</a>
+    </div>
+  {% endif %}
+</div>

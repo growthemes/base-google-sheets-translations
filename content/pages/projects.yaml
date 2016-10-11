@@ -1,0 +1,8 @@
+$title@: Projects
+$order: 2
+description@: Learn about all our projects.
+partials:
+- partial: /views/partials/hero.html
+  title@: Our projects
+  subtitle@: >-
+      Find some information about our projects here.

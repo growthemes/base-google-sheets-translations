@@ -1,0 +1,13 @@
+<div class="header">
+  <h1><a href="{{podspec.home.localize(doc.locale).url.path}}">{{_(podspec.title)}}</a></h1>
+  <div class="nav">
+    <ul class="nav__items">
+      {% set items = g.docs('pages', locale=doc.locale) %}
+      {% for item in items %}
+      <li class="nav__items__item {{"nav__items__item--active" if doc == item}}">
+          <a href="{{item.url.path}}">{{_(item.title)}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,63 @@
+#: /content/pages/home.yaml
+msgid "A basic Grow demo website."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "About"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "About this project"
+msgstr ""
+
+#: /content/pages/projects.yaml
+msgid "Find some information about our projects here."
+msgstr ""
+
+#: /content/pages/home.yaml
+msgid "Home"
+msgstr ""
+
+#: /content/pages/projects.yaml
+msgid "Learn about all our projects."
+msgstr ""
+
+#: /content/pages/home.yaml
+msgid "Learn about us"
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid "Learn about us."
+msgstr ""
+
+#: /content/pages/projects.yaml
+msgid "Our projects"
+msgstr ""
+
+#: /content/pages/projects.yaml
+msgid "Projects"
+msgstr ""
+
+#: /content/pages/home.yaml
+msgid ""
+"This is a basic demonstration that shows how to use Grow to build a few "
+"pages. What you see on this site is entirely controlled by the union of "
+"content files and template files. Content is kept separate from presentation."
+" Some of the pages use YAML and partial templates, other pages just use "
+"Markdown. Try exploring."
+msgstr ""
+
+#: /content/pages/about.yaml
+msgid ""
+"This is a website created by Grow. And it doesn't contain a lot of "
+"information right now. But that's the point."
+msgstr ""
+
+#: /content/pages/home.yaml
+msgid "Welcome to your website"
+msgstr ""
+
+#: /podspec.yaml
+msgid "g6 GTT Demo"
+msgstr ""
+

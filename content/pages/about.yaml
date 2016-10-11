@@ -1,0 +1,10 @@
+$title@: About
+$order: 1
+description@: Learn about us.
+
+partials:
+- partial: /views/partials/hero.html
+  title@: About this project
+  subtitle@: >-
+      This is a website created by Grow. And it doesn't contain a
+      lot of information right now. But that's the point.
